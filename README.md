@@ -3,7 +3,7 @@ Master Thesis: "Feature and event analysis of seismic data using machine learnin
 
 List of packages needed:
 
-- numpy:                  1.15.4
+- numpy:         \t         1.15.4
 - obspy:                  1.1.0
 - pytorch:                1.2.0
 - sklearn:                0.20.3
