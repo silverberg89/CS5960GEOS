@@ -5,4 +5,6 @@ List of packages needed:
 Package | Version
 ------------ | -------------
 
-- numpy:          |          1.15.4
+numpy:          |          1.15.4
+obspy:            |        1.1.0
+pytorch:         |         1.2.0
