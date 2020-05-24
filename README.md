@@ -27,3 +27,23 @@ sys:            |          Na
 random:         |          Na
 time:           |          Na
 apex:           |          Na
+
+File description:
+
+Package | Version
+------------ | -------------
+training.py:             |       Running training sessions.
+classify.py:             |       Classifies data.
+event_data_methods.py:   |       Load or create data.
+methods.py:              |       Various functions used across the project.
+cnn.py:                  |       Hold the core code for CNN (trainer,classifier,feature analyser).
+nn.py:                   |       Hold the core code for NN (trainer,classifier,feature analyser).
+cnn_nn.py:               |       Hold the core code for CNN\_NN (trainer,classifier,feature analyser).
+svm.py:                  |       Hold the core code for SVM (trainer,classifier,feature analyser).
+rf.py:                   |       Hold the core code for RF (trainer,classifier,feature analyser).
+grid_search.py:          |       Na
+features.py:             |       Hold all functions calculating the high level features.
+backcam.py:              |       Core of Grad Cam and Guided backpropagation.
+PCA_extractor.py:        |       Code for running the principal component analysis.
+load_model.py:           |       Loads architectures from by PyTorch
+unsupervised_learning.py:|       Code for performing unsupervised methods (K-means & Mean shift)
