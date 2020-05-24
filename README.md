@@ -30,7 +30,7 @@ apex:           |          Na
 
 File description:
 
-Package | Version
+File | Description
 ------------ | -------------
 training.py:             |       Running training sessions.
 classify.py:             |       Classifies data.
